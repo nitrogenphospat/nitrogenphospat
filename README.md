@@ -8,7 +8,7 @@ Current Projects 🚀
 
 ## Here are some of the latest projects I'm working on:
 
-    [Project Title 1](link to repository): Now, i dont have project.
+    [Materi Kuliah](https://github.com/nitrogenphospat/pertanian/): Sedikit Catatan Materi Kuliah.
 
 # Contributions and Collaboration 🤝
 
